@@ -78,6 +78,6 @@ Based on the analysis (details in the image above and the Design Thinking file):
 
 ---
 ## Project Deliverables
-1.  **Power BI Dashboard (`.pbix` file):** [View Dashboard](https://github.com/Dung040125/AdventureWorks---Procurement-Operations-Dashboard-Power-BI-/blob/main/Project3_DataSourceImported.pbix)
-2.  **Design Thinking Excel File:** Documents the design process, analysis, and detailed recommendations. [View file](https://github.com/Dung040125/AdventureWorks---Procurement-Operations-Dashboard-Power-BI-/blob/main/Design%20Thinking%20_%20project%203.xlsx)
+1.  **Power BI Dashboard (`.pbix` file):** [View Dashboard](https://github.com/Dung040125/AdventureWorks---Procurement-Operations-Dashboard-Power-BI-/raw/main/Project3_DataSourceImported.pbix)
+2.  **Design Thinking Excel File:** Documents the design process, analysis, and detailed recommendations. [View file](https://github.com/Dung040125/AdventureWorks---Procurement-Operations-Dashboard-Power-BI-/raw/main/Design%20Thinking%20_%20project%203.xlsx)
 
