@@ -1,83 +1,172 @@
-# AdventureWorks-Procurement-Operations-Dashboard-PowerBI-
-Power BI operations dashboard analyzing AdventureWorks Cycles' procurement data to provide actionable insights for leadership on purchasing costs, operational efficiency, and vendor management.
+# 📊 Project Title: AdventureWorks - Procurement Operations Dashboard
+
+![image](https://github.com/user-attachments/assets/23b1ad67-fc1d-4124-8efe-d04eb1acdcf6)
+
+**Author:** Nguyen Thi Thuy Dung
+**Date:** 2025-04
+**Tools Used:** Microsoft Power BI, DAX, Excel (for Design Thinking), SQL (SQL Server)
 
 ---
-## Summary
-This project presents an Operations Dashboard built with Power BI, analyzing the procurement data of AdventureWorks Cycles. The dashboard provides leadership with a visual and understandable overview of purchasing activities, supporting decision-making and operational optimization, focusing on costs, order efficiency, and delivery details.
+
+📑 ## Table of Contents
+- [📌 Background & Overview](#-background--overview)
+- [📂 Project Focus & Dataset Context](#-project-focus--dataset-context)
+- [🧠 Design Thinking Process](#-design-thinking-process)
+- [⚒️ Main Process: Data Preparation & Dashboard Development](#️-main-process-data-preparation--dashboard-development)
+- [📊 Key Insights & Visualizations](#-key-insights--visualizations)
+- [🔎 Final Conclusion & Recommendations](#-final-conclusion--recommendations)
+- [🚀 Usage Instructions](#-usage-instructions)
+- [📂 Project Deliverables](#-project-deliverables)
+- [💡 Design Discussions and Decisions](#-design-discussions-and-decisions)
 
 ---
-## Table of Contents
-- [Introduction & Objectives](#introduction--objectives)
-- [Dataset & Preprocessing](#dataset--preprocessing)
-- [Methodology & Tools](#methodology--tools)
-- [Dashboard Overview & Key Pages](#dashboard-overview--key-pages)
-    - [Purchasing Overview: Cost & Volume](#purchasing-overview-cost--volume)
-    - [Purchasing Operations: Efficiency, Details & Vendor Insights](#purchasing-operations-efficiency-details--vendor-insights)
-- [Key Insights & Recommendations](#key-insights--recommendations)
-- [Usage Instructions](#usage-instructions)
-- [Project Deliverables](#project-deliverables)
+
+## 📌 Background & Overview
+
+### Objective
+📖 **What is this project about?**
+
+This project presents an **Operations Dashboard**, developed using **Microsoft Power BI**, to analyze procurement data for **AdventureWorks Cycles**, a fictitious bicycle manufacturer. Recognizing the Purchasing Department's critical role in acquiring goods and materials efficiently (sufficient stock, on-time delivery, optimal cost), this dashboard aims to provide leadership with a **clear, visual, and actionable overview** to enhance decision-making and streamline procurement operations.
+
+The core objectives are to:
+*   ✔️ Deliver a comprehensive understanding of purchasing **costs, quantities, and evolving trends**.
+*   ✔️ Analyze **operational efficiency**, including delivery timelines and vendor-related factors.
+*   ✔️ Empower **data-driven decision-making** to refine and improve procurement processes.
+
+👤 **Who is this project for?**
+*   AdventureWorks Leadership & Management
+*   Procurement Department Managers & Staff
+*   Data Analysts & Business Analysts supporting procurement.
+
+❓ **Business Questions:**
+This dashboard, focusing on the **Purchasing** domain within AdventureWorks, addresses key questions such as:
+*   What are the current trends in purchasing costs and order volumes?
+*   How efficient are current purchasing operations regarding unit price, lead time, and vendor activity?
+*   What is the performance and cost-effectiveness of different shipping methods?
+*   What is the overall order fulfillment time, and how is it trending?
+
+🎯 **Project Outcome:**
+*   **Cost & Volume Insights:** Successfully identified seasonal ordering patterns and pinpointed "Components" as a primary cost driver.
+*   **Operational Efficiency Gains:** Highlighted opportunities for lead time reduction and more effective shipping method analysis.
+*   **Strategic Foundation:** Provided a data-backed basis for optimizing procurement strategies, including supplier evaluation and cost management for key materials.
 
 ---
-## Introduction & Objectives
-The Purchasing Department of AdventureWorks Cycles needs to ensure an efficient supply chain (sufficient stock, on-time delivery, optimal pricing). This project develops an Operations Dashboard using Power BI to:
-*   Provide a comprehensive overview of purchasing costs, quantities, and trends.
-*   Analyze operational efficiency, delivery details, and vendor-related factors.
-*   Support data-driven decision-making by leadership to improve procurement processes.
+
+## 📂 Project Focus & Dataset Context
+
+📌 **Dataset Context**
+*   **Dataset:** The project utilizes the **AdventureWorks sample database**, a standard OLTP dataset from Microsoft simulating a bicycle manufacturer.
+*   **Project Focus:** This analysis is specifically centered on the **Purchasing** domain of AdventureWorks.
+*   **Data Exploration:** The AdventureWorks schema is well-documented by Microsoft. For detailed information, official Microsoft documentation is recommended.
 
 ---
-## Dataset & Preprocessing
--   **Dataset:** AdventureWorks Database, focusing on **Purchasing** data.
--   **Preprocessing (Power Query):**
-    -   Connected, cleaned, and transformed data from the AdventureWorks source.
-    -   Built a data model, established relationships, and created DAX measures (`Total Purchase Cost (YTD)`, `Avg Lead Time Overall`, etc).
+
+## 🧠 Design Thinking Process
+This project applied **Design Thinking principles** to thoroughly understand leadership's needs regarding procurement insights and to define the dashboard's scope effectively. 
+
+1️⃣ **Empathize:** Focused on understanding the daily challenges and strategic objectives of the Procurement Department and AdventureWorks leadership.
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/0ef2a795-ace9-441f-9ec5-acf860776dc1" alt="Design Thinking: Empathize Stage" width="600">
+</p>
+
+![image](https://github.com/user-attachments/assets/0e8afd7b-de6d-4eb4-8604-cd7625eb6b0f)
+![image](https://github.com/user-attachments/assets/e86854e1-642d-4c06-ae83-9de6b791097d)
+
+
+2️⃣ **Define (Point of View):** Articulated the core problem: The necessity for a clear, consolidated, and data-driven overview of all procurement activities to enable informed and timely decision-making.
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/590ca0ec-d9ba-4f33-bff1-9617cb0342f2" alt="Design Thinking: Define Stage" width="600">
+</p>
+
+![image](https://github.com/user-attachments/assets/d0088948-9a6d-4d0d-a653-6d6db59fa379)
+![image](https://github.com/user-attachments/assets/71a855c9-e7d0-4592-b926-e280a981c287)
+
+
+3️⃣ **Ideate:** Brainstormed a range of relevant Key Performance Indicators (KPIs), effective data visualizations, and intuitive dashboard layouts designed to directly address the defined problem statement and business questions.
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/005deca6-fe55-4bdc-a38f-e98642e7469c" alt="Design Thinking: Ideate Stage" width="600">
+</p>
+
+![image](https://github.com/user-attachments/assets/f27bdc4a-fde7-4384-9e25-a8c648ef38b4)
+
+
+4️⃣ **Prototype and Review:** Developed initial dashboard prototypes in Power BI, which were then iteratively refined based on analytical goals, data storytelling principles, and assumed stakeholder feedback for maximum clarity and impact.
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/25bea8f6-5e83-48e2-9132-a53dac0ab6b2" alt="Design Thinking: Prototype Stage" width="600">
+</p>
 
 ---
-## Methodology & Tools
--   **Process:**
-    -   Applied Design Thinking (Excel) to identify leadership's needs.
-    -   Analyzed requirements, preprocessed data, built the data model, and developed DAX measures.
-    -   Designed the dashboard in Power BI, summarizing insights and recommendations.
--   **Tools:** Microsoft Power BI Desktop, Microsoft Excel.
--   **Language:** DAX.
+
+## ⚒️ Main Process: Data Preparation & Dashboard Development
+
+### 1️⃣ Data Preparation (Power Query & DAX)
+*   Connected to the **AdventureWorks SQL Server database** within Power BI.
+*   Selected and imported tables and columns pertinent to the **Purchasing** analysis.
+*   Performed necessary data type transformations and handled missing values using **Power Query Editor**.
+*   Created essential calculated columns and **DAX measures** for key procurement metrics (e.g., `Total Purchase Cost (YTD)`, `Average Lead Time Overall`).
+*   Established and verified relationships between tables in the Power BI data model to ensure analytical integrity.
+
+### 2️⃣ Power BI Visualization & Dashboarding
+Developed interactive and insightful dashboards tailored to specific stakeholder needs, focusing on clear data presentation and actionable insights.
 
 ---
-## Dashboard Overview & Key Pages
-The dashboard comprises specialized pages for analyzing procurement activities:
 
-### Purchasing Overview: Cost & Volume
-Provides an overview of purchasing costs, order quantities over time, and cost structure by category.
-*   **Key Visuals:** KPIs (`Total Purchase Cost YTD`, `Total Quantity Ordered MTD`), `Monthly Quantity and Orders`, `Monthly Cost Trend`, `Cost Impact Analysis`, `Category Cost Share`.
-![image](https://github.com/user-attachments/assets/81ac067f-0ad7-497f-84fc-950611f675fd)
+## 📊 Key Insights & Visualizations
 
+🔍 **Dashboard Previews & Analysis**
 
-### Purchasing Operations: Efficiency, Details & Vendor Insights
-Analyzes operational efficiency, shipping costs, taxes, order fulfillment times, and factors related to vendor performance.
-*   **Key Visuals:** KPIs (`Avg Unit Price`, `Avg Lead Time Overall`, `Active Vendors YTD`), `Order Count by Ship Method ID`, `Monthly Orders & Avg Value`, `Monthly Freight & Tax Analysis`, `Overall Order Fulfillment Time Trend`.
-*(This page also implicitly covers or can be extended for a more detailed analysis of vendor performance and associated costs.)*
-![image](https://github.com/user-attachments/assets/32ff243f-1e3a-41f4-a900-f190b3c50d11)
+The procurement operations dashboard is structured into user-centric pages:
 
----
-## Key Insights & Recommendations
-![image](https://github.com/user-attachments/assets/7c0678a9-e2bb-4558-8161-77c6fc1b0ad2)
+### **Page 1: Purchasing Overview - Cost & Volume**
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/81ac067f-0ad7-497f-84fc-950611f675fd" alt="Purchasing Overview: Cost & Volume Dashboard" width="700">
+</p>
 
+📌 **Analysis (Cost & Volume):**
+*   **Observations:** Ordering activities and associated costs display distinct **seasonal patterns**, notably a dip in Q3-early Q4. **"Components"** emerge as a primary driver of purchasing expenditure.
+*   **Recommendations:** Strategically optimize procurement costs for "Components." Align inventory planning with identified seasonal trends. Closely monitor months showing high "Cost Impact by Price."
 
-Based on the analysis (details in the image above and the Design Thinking file):
+### **Page 2: Purchasing Operations - Efficiency, Details & Vendor Insights**
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/32ff243f-1e3a-41f4-a900-f190b3c50d11" alt="Purchasing Operations: Efficiency & Details Dashboard" width="700">
+</p>
 
-**Regarding Cost & Volume:**
-*   **Insight:** Ordering activity and costs tend to decrease in Q3-early Q4, recovering by year-end. "Components" account for a large share of costs.
-*   **Recommendation:** Optimize costs for "Components." Plan for seasonal trends (Q3/Q4). Control prices during months with high "Cost Impact by Price."
-
-**Regarding Operational Efficiency & Delivery Details:**
-*   **Insight:** Need to shorten order-to-ship times. A thorough analysis of cost/speed for each shipping method ID is necessary. Average order value significantly drops in October.
-*   **Recommendation:** Optimize Lead Time. Evaluate and optimize shipping methods. Review order sizes (especially in months with low average value). Closely monitor Freight & Tax costs.
+📌 **Analysis (Operational Efficiency & Delivery):**
+*   **Observations:** An evident need exists to **shorten order-to-ship (lead) times**. The effectiveness of different shipping methods (balancing cost and speed) requires thorough analysis. A notable drop in average order value was observed in October.
+*   **Recommendations:** Prioritize initiatives to **optimize lead times**. Evaluate and select shipping methods offering the best cost-speed equilibrium. Review order consolidation strategies. Consistently monitor freight and tax costs.
 
 ---
-## Usage Instructions
--   Open the `.pbix` file using Microsoft Power BI Desktop.
--   Interact with the dashboard via Slicers (`Date`, `Category`, `Year`) and cross-filtering. Hover over visuals for tooltips.
+
+## 🔎 Final Conclusion & Recommendations
+👉🏻 Based on the comprehensive analysis facilitated by the Power BI dashboards, the AdventureWorks Purchasing Department and Leadership should consider the following strategic actions for enhanced operational control and cost-efficiency:
+
+📌 **Key Takeaways:**
+*   ✔️ **Embrace Seasonal Planning:** Proactively manage inventory and supplier orders in alignment with identified seasonal purchasing trends to optimize costs and ensure material availability.
+*   ✔️ **Targeted Cost Optimization:** Concentrate cost-reduction efforts on high-spend categories, particularly "Components," through avenues like supplier negotiation or exploring alternative sourcing.
+*   ✔️ **Prioritize Lead Time Reduction:** Implement process improvements and collaborate with suppliers to significantly shorten the overall order fulfillment cycle, thereby improving responsiveness.
+*   ✔️ **Strategic Shipping Method Evaluation:** Continuously assess and select shipping methods to ensure an optimal balance of logistical cost and delivery speed.
+*   ✔️ **Enhance Vendor Performance Monitoring:** Develop and implement a robust system for tracking and evaluating vendor performance against key metrics such as on-time delivery, price stability, and quality.
 
 ---
-## Project Deliverables
+
+## 🚀 Usage Instructions
+*   Open the `.pbix` file using **Microsoft Power BI Desktop**.
+*   Interact with the dashboard using **Slicers** (e.g., for `Date`, `Product Category`) and **cross-filtering** capabilities by clicking on visual elements.
+*   Hover over visuals to view detailed **tooltips**.
+
+---
+
+## 📂 Project Deliverables
 1.  **Power BI Dashboard (`.pbix` file):** [View Dashboard](https://github.com/Dung040125/AdventureWorks---Procurement-Operations-Dashboard-Power-BI-/raw/main/Project3_DataSourceImported.pbix)
-2.  **Design Thinking Excel File:** Documents the design process, analysis, and detailed recommendations. [View file](https://github.com/Dung040125/AdventureWorks---Procurement-Operations-Dashboard-Power-BI-/raw/main/Design%20Thinking%20_%20project%203.xlsx)
+2.  **Design Thinking Excel File:** Documents the user-centric design process and detailed findings. [View file](https://github.com/Dung040125/AdventureWorks---Procurement-Operations-Dashboard-Power-BI-/raw/main/Design%20Thinking%20_%20project%203.xlsx)
 
+---
+
+## 💡Design Discussions and Decisions
+Key design choices and interpretations made during this project include:
+*   **Focus on Core Procurement KPIs:** Prioritized metrics directly impacting **cost, timeliness, and efficiency** relevant to the Purchasing Department's objectives.
+*   **Stakeholder-Centric Dashboard Design:** Dashboards were conceptualized to serve typical leadership needs for **high-level overviews and actionable operational insights**.
+*   **Data Scope for Purchasing:** Selected a relevant subset of AdventureWorks tables pertinent to the **Purchasing** topic to maintain focus and deliver actionable results.
+*   **Iterative Refinement:** The development of visualizations and insights was an iterative process, continuously refining views to best address core business questions.
+
+*(Further details on specific data transformations, DAX measures, and visualization choices are implicitly covered in the dashboard design and can be further explored in the Design Thinking artifacts.)*
