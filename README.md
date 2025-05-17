@@ -10,7 +10,7 @@
 ---
 
 📑 ## Table of Contents
-- [📌 Background & Overview](#background--overview)
+- [📌 Background & Overview](#-background--overview)
 - [📂 Project Focus & Dataset Context](#project-focus--dataset-context)
 - [🧠 Design Thinking Process](#design-thinking-process)
 - [⚒️ Main Process: Data Preparation & Dashboard Development](#main-process-data-preparation--dashboard-development) 
