@@ -17,7 +17,7 @@
 - [📊 Key Insights & Visualizations](#-key-insights--visualizations)
 - [🔎 Final Conclusion & Recommendations](#-final-conclusion--recommendations)
 - [🚀 Usage Instructions](#-usage-instructions) 
-- [📂 Project Deliverables](#project-deliverables)
+- [📂 Project Deliverables](#-project-deliverables)
 - [💡 Design Discussions and Decisions](#design-discussions-and-decisions) 
 
 ---
