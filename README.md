@@ -1,6 +1,7 @@
 # 📊 Project Title: AdventureWorks - Procurement Operations Dashboard
-
-![image](https://github.com/user-attachments/assets/23b1ad67-fc1d-4124-8efe-d04eb1acdcf6)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/23b1ad67-fc1d-4124-8efe-d04eb1acdcf6" alt="AdventureWorks Project Banner" width="1000"> 
+</p>
 
 **Author:** Nguyen Thi Thuy Dung
 **Date:** 2025-04
@@ -9,15 +10,15 @@
 ---
 
 📑 ## Table of Contents
-- [📌 Background & Overview](#-background--overview)
-- [📂 Project Focus & Dataset Context](#-project-focus--dataset-context)
-- [🧠 Design Thinking Process](#-design-thinking-process)
-- [⚒️ Main Process: Data Preparation & Dashboard Development](#️-main-process-data-preparation--dashboard-development)
-- [📊 Key Insights & Visualizations](#-key-insights--visualizations)
-- [🔎 Final Conclusion & Recommendations](#-final-conclusion--recommendations)
-- [🚀 Usage Instructions](#-usage-instructions)
-- [📂 Project Deliverables](#-project-deliverables)
-- [💡 Design Discussions and Decisions](#-design-discussions-and-decisions)
+- [📌 Background & Overview](#background--overview)
+- [📂 Project Focus & Dataset Context](#project-focus--dataset-context)
+- [🧠 Design Thinking Process](#design-thinking-process)
+- [⚒️ Main Process: Data Preparation & Dashboard Development](#main-process-data-preparation--dashboard-development) 
+- [📊 Key Insights & Visualizations](#key-insights--visualizations)
+- [🔎 Final Conclusion & Recommendations](#final-conclusion--recommendations)
+- [🚀 Usage Instructions](#usage-instructions) 
+- [📂 Project Deliverables](#project-deliverables)
+- [💡 Design Discussions and Decisions](#design-discussions-and-decisions) 
 
 ---
 
@@ -66,33 +67,37 @@ This project applied **Design Thinking principles** to thoroughly understand lea
 
 1️⃣ **Empathize:** Focused on understanding the daily challenges and strategic objectives of the Procurement Department and AdventureWorks leadership.
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/0ef2a795-ace9-441f-9ec5-acf860776dc1" alt="Design Thinking: Empathize Stage" width="600">
+  <img src="https://github.com/user-attachments/assets/0ef2a795-ace9-441f-9ec5-acf860776dc1" alt="Design Thinking: Empathize Stage - Understanding User" width="700">
 </p>
-
-![image](https://github.com/user-attachments/assets/0e8afd7b-de6d-4eb4-8604-cd7625eb6b0f)
-![image](https://github.com/user-attachments/assets/e86854e1-642d-4c06-ae83-9de6b791097d)
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/0e8afd7b-de6d-4eb4-8604-cd7625eb6b0f" alt="Design Thinking: Empathize Stage - Stakeholder Map" width="700">
+</p>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/e86854e1-642d-4c06-ae83-9de6b791097d" alt="Design Thinking: Empathize Stage - Journey Map" width="700">
+</p>
 
 2️⃣ **Define (Point of View):** Articulated the core problem: The necessity for a clear, consolidated, and data-driven overview of all procurement activities to enable informed and timely decision-making.
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/590ca0ec-d9ba-4f33-bff1-9617cb0342f2" alt="Design Thinking: Define Stage" width="600">
+  <img src="https://github.com/user-attachments/assets/590ca0ec-d9ba-4f33-bff1-9617cb0342f2" alt="Design Thinking: Define Stage - POV" width="700">
 </p>
-
-![image](https://github.com/user-attachments/assets/d0088948-9a6d-4d0d-a653-6d6db59fa379)
-![image](https://github.com/user-attachments/assets/71a855c9-e7d0-4592-b926-e280a981c287)
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/d0088948-9a6d-4d0d-a653-6d6db59fa379" alt="Design Thinking: Define Stage - HMW Questions" width="700">
+</p>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/71a855c9-e7d0-4592-b926-e280a981c287" alt="Design Thinking: Define Stage - User Needs" width="700">
+</p>
 
 3️⃣ **Ideate:** Brainstormed a range of relevant Key Performance Indicators (KPIs), effective data visualizations, and intuitive dashboard layouts designed to directly address the defined problem statement and business questions.
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/005deca6-fe55-4bdc-a38f-e98642e7469c" alt="Design Thinking: Ideate Stage" width="600">
+  <img src="https://github.com/user-attachments/assets/005deca6-fe55-4bdc-a38f-e98642e7469c" alt="Design Thinking: Ideate Stage - Brainstorming" width="700">
 </p>
-
-![image](https://github.com/user-attachments/assets/f27bdc4a-fde7-4384-9e25-a8c648ef38b4)
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/f27bdc4a-fde7-4384-9e25-a8c648ef38b4" alt="Design Thinking: Ideate Stage - Prioritization" width="700">
+</p>
 
 4️⃣ **Prototype and Review:** Developed initial dashboard prototypes in Power BI, which were then iteratively refined based on analytical goals, data storytelling principles, and assumed stakeholder feedback for maximum clarity and impact.
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/25bea8f6-5e83-48e2-9132-a53dac0ab6b2" alt="Design Thinking: Prototype Stage" width="600">
+  <img src="https://github.com/user-attachments/assets/25bea8f6-5e83-48e2-9132-a53dac0ab6b2" alt="Design Thinking: Prototype Stage - Dashboard Sketch" width="700">
 </p>
 
 ---
