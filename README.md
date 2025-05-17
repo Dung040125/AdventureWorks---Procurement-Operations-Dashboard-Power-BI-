@@ -14,7 +14,7 @@
 - [📂 Project Focus & Dataset Context](#-project-focus--dataset-context)
 - [🧠 Design Thinking Process](#-design-thinking-process)
 - [⚒️ Main Process: Data Preparation & Dashboard Development](#%EF%B8%8F-main-process-data-preparation--dashboard-development) 
-- [📊 Key Insights & Visualizations](#key-insights--visualizations)
+- [📊 Key Insights & Visualizations](#-key-insights--visualizations)
 - [🔎 Final Conclusion & Recommendations](#final-conclusion--recommendations)
 - [🚀 Usage Instructions](#usage-instructions) 
 - [📂 Project Deliverables](#project-deliverables)
