@@ -3,9 +3,9 @@
   <img src="https://github.com/user-attachments/assets/23b1ad67-fc1d-4124-8efe-d04eb1acdcf6" alt="AdventureWorks Project Banner" width="1000"> 
 </p>
 
-**Author:** Nguyen Thi Thuy Dung
-**Date:** 2025-04
-**Tools Used:** Microsoft Power BI, DAX, Excel (for Design Thinking), SQL (SQL Server)
+* **Author:** Nguyen Thi Thuy Dung
+* **Date:** 2025-04
+* **Tools Used:** Microsoft Power BI, DAX, Excel (for Design Thinking), SQL (SQL Server)
 
 ---
 
