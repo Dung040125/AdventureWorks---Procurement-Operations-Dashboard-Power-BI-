@@ -1,4 +1,4 @@
-# 📊 Project Title: Procurement Operations Analysis (Power BI – AdventureWorks)
+# 📊 AdventureWorks Procurement Efficiency Analysis - Power BI
 <p align="center">
   <img src="https://github.com/user-attachments/assets/23b1ad67-fc1d-4124-8efe-d04eb1acdcf6" alt="AdventureWorks Project Banner" width="1000"> 
 </p>
