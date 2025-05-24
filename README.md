@@ -27,24 +27,17 @@
 ### Objective
 📖 **What is this project about?**
 
-This project presents an **Operations Dashboard**, developed using **Microsoft Power BI**, to analyze procurement data for **AdventureWorks Cycles**, a fictitious bicycle manufacturer. Recognizing the Purchasing Department's critical role in acquiring goods and materials efficiently (sufficient stock, on-time delivery, optimal cost), this dashboard aims to provide leadership with a **clear, visual, and actionable overview** to enhance decision-making and streamline procurement operations.
+This project analyzes **AdventureWorks' procurement operations** to support strategic decision-making in the **manufacturing industry**. By visualizing purchasing data, the dashboard helps improve efficiency, control costs, and monitor vendor performance.
 
-The core objectives are to:
-*   ✔️ Deliver a comprehensive understanding of purchasing **costs, quantities, and evolving trends**.
-*   ✔️ Analyze **operational efficiency**, including delivery timelines and vendor-related factors.
-*   ✔️ Empower **data-driven decision-making** to refine and improve procurement processes.
+It aims to:
+*   ✔️ Highlight trends in **purchasing costs**, **order volumes**, and **fulfillment time**.
+*   ✔️ Assess **operational efficiency** via unit prices, lead times, and vendor activities.
+*   ✔️ Evaluate the **performance** and **cost-effectiveness of shipping methods**.
 
 👤 **Who is this project for?**
 *   AdventureWorks Leadership & Management
 *   Procurement Department Managers & Staff
 *   Data Analysts & Business Analysts supporting procurement.
-
-❓ **Business Questions:**
-This dashboard, focusing on the **Purchasing** domain within AdventureWorks, addresses key questions such as:
-*   What are the current trends in purchasing costs and order volumes?
-*   How efficient are current purchasing operations regarding unit price, lead time, and vendor activity?
-*   What is the performance and cost-effectiveness of different shipping methods?
-*   What is the overall order fulfillment time, and how is it trending?
 
 🎯 **Project Outcome:**
 *   **Cost & Volume Insights:** Successfully identified seasonal ordering patterns and pinpointed "Components" as a primary cost driver.
