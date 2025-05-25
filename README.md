@@ -105,12 +105,12 @@ This project applied **Design Thinking principles** to thoroughly understand lea
   <img src="https://github.com/user-attachments/assets/005deca6-fe55-4bdc-a38f-e98642e7469c" alt="Design Thinking: Ideate Stage - Brainstorming" width="700">
 </p>
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/f27bdc4a-fde7-4384-9e25-a8c648ef38b4" alt="Design Thinking: Ideate Stage - Prioritization" width="700">
+  <img src="https://github.com/user-attachments/assets/f27bdc4a-fde7-4384-9e25-a8c648ef38b4" alt="Design Thinking: Ideate Stage - Prioritization" width="500">
 </p>
 
 4️⃣ **Prototype and Review:** Developed initial dashboard prototypes in Power BI, which were then iteratively refined based on analytical goals, data storytelling principles, and assumed stakeholder feedback for maximum clarity and impact.
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/25bea8f6-5e83-48e2-9132-a53dac0ab6b2" alt="Design Thinking: Prototype Stage - Dashboard Sketch" width="700">
+  <img src="https://github.com/user-attachments/assets/25bea8f6-5e83-48e2-9132-a53dac0ab6b2" alt="Design Thinking: Prototype Stage - Dashboard Sketch" width="900">
 </p>
 
 ---
