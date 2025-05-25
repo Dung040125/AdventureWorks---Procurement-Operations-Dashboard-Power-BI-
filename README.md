@@ -91,10 +91,10 @@ This project applied **Design Thinking principles** to thoroughly understand lea
 
 2️⃣ **Define (Point of View):** Articulated the core problem: The necessity for a clear, consolidated, and data-driven overview of all procurement activities to enable informed and timely decision-making.
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/e7e46fc3-fe62-4724-a8ed-eb9214b2a92a" alt="Design Thinking: Define Stage - POV" width="700">
+  <img src="https://github.com/user-attachments/assets/e7e46fc3-fe62-4724-a8ed-eb9214b2a92a" alt="Design Thinking: Define Stage - POV" width="600">
 </p>
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/d0088948-9a6d-4d0d-a653-6d6db59fa379" alt="Design Thinking: Define Stage - HMW Questions" width="700">
+  <img src="https://github.com/user-attachments/assets/d0088948-9a6d-4d0d-a653-6d6db59fa379" alt="Design Thinking: Define Stage - HMW Questions" width="600">
 </p>
 <p align="center">
   <img src="https://github.com/user-attachments/assets/71a855c9-e7d0-4592-b926-e280a981c287" alt="Design Thinking: Define Stage - User Needs" width="700">
