@@ -9,7 +9,7 @@
 
 ---
 
-📑 ## Table of Contents
+## 📑 Table of Contents
 - [📌 Background & Overview](#-background--overview)
 - [📂 Project Focus & Dataset Context](#-project-focus--dataset-context)
 - [🧠 Design Thinking Process](#-design-thinking-process)
