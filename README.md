@@ -83,7 +83,7 @@ This project applied **Design Thinking principles** to thoroughly understand lea
   <img src="https://github.com/user-attachments/assets/5c7c4dc4-5a41-4c3c-a3ee-7f8b7bf2ec0f" alt="Design Thinking: Empathize Stage - Stakeholder Map" width="700">
 </p>
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/d3fb3db2-44e1-41f3-b543-131dff5318fb" alt="Design Thinking: Empathize Stage - Journey Map" width="700">
+  <img src="https://github.com/user-attachments/assets/787125b9-8617-45c4-b872-27dc15fd9759" alt="Design Thinking: Empathize Stage - Journey Map" width="500">
 </p>
 
 2️⃣ **Define (Point of View):** Articulated the core problem: The necessity for a clear, consolidated, and data-driven overview of all procurement activities to enable informed and timely decision-making.
