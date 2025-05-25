@@ -97,7 +97,7 @@ This project applied **Design Thinking principles** to thoroughly understand lea
   <img src="https://github.com/user-attachments/assets/d0088948-9a6d-4d0d-a653-6d6db59fa379" alt="Design Thinking: Define Stage - HMW Questions" width="600">
 </p>
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/71a855c9-e7d0-4592-b926-e280a981c287" alt="Design Thinking: Define Stage - User Needs" width="800">
+  <img src="https://github.com/user-attachments/assets/ea9ddf9f-7ba2-458a-aaaa-fb8a8420a007" alt="Design Thinking: Define Stage - User Needs" width="800">
 </p>
 
 3️⃣ **Ideate:** Brainstormed a range of relevant Key Performance Indicators (KPIs), effective data visualizations, and intuitive dashboard layouts designed to directly address the defined problem statement and business questions.
