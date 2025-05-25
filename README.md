@@ -122,7 +122,6 @@ This project applied **Design Thinking principles** to thoroughly understand lea
 *   Selected and imported tables and columns pertinent to the **Purchasing** analysis.
 *   Performed necessary data type transformations and handled missing values using **Power Query Editor**.
 *   Created essential calculated columns and **DAX measures** for key procurement metrics (e.g., `Total Purchase Cost (YTD)`, `Average Lead Time Overall`).
-*   Established and verified relationships between tables in the Power BI data model to ensure analytical integrity.
 
 ### 2️⃣ Power BI Visualization & Dashboarding
 Developed interactive and insightful dashboards tailored to specific stakeholder needs, focusing on clear data presentation and actionable insights.
