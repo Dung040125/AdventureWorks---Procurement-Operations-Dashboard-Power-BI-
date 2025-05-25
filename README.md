@@ -75,9 +75,14 @@ The analysis utilizes a total of **12 tables** from the AdventureWorks database,
 ## 🧠 Design Thinking Process
 This project applied **Design Thinking principles** to thoroughly understand leadership's needs regarding procurement insights and to define the dashboard's scope effectively. 
 
+
+
 1️⃣ **Empathize:** Focused on understanding the daily challenges and strategic objectives of the Procurement Department and AdventureWorks leadership.
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/f058955d-67cf-48e9-a778-d0c07c6b914f" alt="Design Thinking: Empathize Stage - Understanding User" width="700">
+  <img src="https://github.com/user-attachments/assets/56e08e51-29a7-44c1-a4c2-c2bfbafa4ce8" alt="Design Thinking: Empathize Stage - Understanding User" width="700">
+</p>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/cbc29f36-342f-4462-9a69-27da2f3e36ed" alt="Design Thinking: Empathize Stage - Understanding User" width="600">
 </p>
 <p align="center">
   <img src="https://github.com/user-attachments/assets/5c7c4dc4-5a41-4c3c-a3ee-7f8b7bf2ec0f" alt="Design Thinking: Empathize Stage - Stakeholder Map" width="700">
