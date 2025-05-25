@@ -46,12 +46,29 @@ It aims to:
 
 ---
 
-## 📂 Project Focus & Dataset Context
+## 📌 Project Focus & Dataset Context
 
-📌 **Dataset Context**
-*   **Dataset:** The project utilizes the **AdventureWorks sample database**, a standard OLTP dataset from Microsoft simulating a bicycle manufacturer.
-*   **Project Focus:** This analysis is specifically centered on the **Purchasing** domain of AdventureWorks.
-*   **Data Exploration:** The AdventureWorks schema is well-documented by Microsoft. For detailed information, official Microsoft documentation is recommended.
+This project focuses on analyzing the **Production and Procurement processes** within a manufacturing context. This is achieved by modeling and visualizing data sourced from the **AdventureWorks database**.
+
+### 🧱 Data Structure
+
+The analysis utilizes a total of **12 tables** from the AdventureWorks database, structured as follows:
+
+*   **Dimension Tables (5):**
+    *   `Product_Product`
+    *   `Product_ProductTable`
+    *   `Production_Location`
+    *   `Production_ScrapReason`
+    *   `Purchasing_Vendor`
+
+*   **Fact Tables (7):**
+    *   `Product_Inventory`
+    *   `Production_BillOfMaterials`
+    *   `Production_WorkOrder`
+    *   `Production_WorkOrderRouting`
+    *   `Purchasing_OrderDetail`
+    *   `Purchasing_OrderHeader`
+    *   `Purchasing_ProductVendor`
 
 ---
 
