@@ -140,7 +140,7 @@ The procurement operations dashboard is structured into user-centric pages:
 </p>
 
 📌 **Analysis (Cost & Volume):**
-**Key Discoveries:**
+* **Key Discoveries:**
 
 1.  **Historical Operational Scale:**
     *   The total historical purchase cost amounts to **$70.48 million**, with an average purchase order value of **$17.57 thousand**. This indicates significant investment and a tendency towards high-value procurement transactions.
