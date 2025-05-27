@@ -171,8 +171,26 @@ The procurement operations dashboard is structured into user-centric pages:
 </p>
 
 📌 **Analysis (Operational Efficiency & Delivery):**
-*   **Observations:** An evident need exists to **shorten order-to-ship (lead) times**. The effectiveness of different shipping methods (balancing cost and speed) requires thorough analysis. A notable drop in average order value was observed in October.
-*   **Recommendations:** Prioritize initiatives to **optimize lead times**. Evaluate and select shipping methods offering the best cost-speed equilibrium. Review order consolidation strategies. Consistently monitor freight and tax costs.
+*   **Key Discoveries:**
+
+1.  **Stability of Core Products & Lead Times:**
+    *   **Average Unit Price: 38.16** for the tracked "conventional units" (most likely related to `ProductID` 528), indicating consistent pricing from suppliers.
+    *   **Average Lead Time Overall: 19.45 days**. This is the standard time from order placement to receipt, a crucial KPI for planning.
+    *   **Active Vendors YTD: 86 vendors** in 2014 (the most recent year with data), showcasing a diversified supply base.
+
+2.  **Preferred Shipping Methods:**
+    *   The business predominantly relies on **Ship Method IDs 5 (1523 orders) and 4 (1085 orders)**, accounting for the majority of the approximately 4012 historical orders. This suggests optimization in selecting transport channels.
+
+3.  **Ancillary Cost Structure (Freight & Tax):**
+    *   **Freight costs constitute about 2.48% and taxes about 8.00%** of the total SubTotal value.
+    *   These rates exhibit **remarkable stability across months**, making procurement cost forecasting more accurate.
+
+4.  **Monthly Order Value Fluctuation & Processing Efficiency (Aggregated Across Years):**
+    *   *Average Order Value:* While order volumes might decrease in certain months, **October stands out with a significantly high average order value (over $20K)**, suggesting strategic purchases or high-value item procurement.
+    *   *Average Order Processing Time:* Internal processing is quite stable, **averaging around 9 days**. However, a **slight increase to 9.22 days in November** warrants attention, possibly due to year-end workload increases.
+  
+**Overall Narrative:**
+This page reveals **stability and control** in detailed operations: from consistent core product unit prices and preferred shipping channels to maintained ancillary cost rates. Concurrently, it highlights points of attention such as **high-value orders concentrating in October** and a slight **fluctuation in year-end order processing efficiency**, opening avenues for further optimization.
 
 ---
 
