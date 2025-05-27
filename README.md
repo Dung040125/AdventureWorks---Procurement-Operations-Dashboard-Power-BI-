@@ -167,7 +167,7 @@ The procurement operations dashboard is structured into user-centric pages:
 
 ### **Page 2: Purchasing Operations - Efficiency, Details & Vendor Insights**
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/c99c10c1-0ff6-4984-b030-2fed893e3744" alt="Purchasing Operations: Efficiency & Details Dashboard" width="900">
+  <img src="https://github.com/user-attachments/assets/5a9319a0-00b4-42c9-b0aa-0e1dbfb611d9" alt="Purchasing Operations: Efficiency & Details Dashboard" width="900">
 </p>
 
 📌 **Analysis (Operational Efficiency & Delivery):**
