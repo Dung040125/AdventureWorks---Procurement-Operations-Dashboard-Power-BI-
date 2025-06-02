@@ -72,7 +72,7 @@ The analysis utilizes a total of **12 tables** from the AdventureWorks database,
 
 ---
 ## 💾 Data Model
-The data model for this project establishes relationships between the dimension and fact tables listed above. This structure, typically a Star Schema or Snowflake Schema, is crucial for enabling efficient querying and accurate analysis in Power BI.
+The data model for this project establishes relationships between the dimension and fact tables listed above. This structure is crucial for enabling efficient querying and accurate analysis in Power BI.
 The diagram below illustrates the relationships between these tables within the Power BI environment:
 
 <p align="center">
