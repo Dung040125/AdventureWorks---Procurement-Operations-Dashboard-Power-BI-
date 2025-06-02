@@ -39,11 +39,6 @@ It aims to:
 *   Procurement Department Managers & Staff
 *   Data Analysts & Business Analysts supporting procurement.
 
-🎯 **Project Outcome:**
-*   **Cost & Volume Insights:** Successfully identified seasonal ordering patterns and pinpointed "Components" as a primary cost driver.
-*   **Operational Efficiency Gains:** Highlighted opportunities for lead time reduction and more effective shipping method analysis.
-*   **Strategic Foundation:** Provided a data-backed basis for optimizing procurement strategies, including supplier evaluation and cost management for key materials.
-
 ---
 
 ## 📌 Project Focus & Dataset Context
