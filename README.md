@@ -71,6 +71,15 @@ The analysis utilizes a total of **12 tables** from the AdventureWorks database,
     *   `Purchasing_ProductVendor`
 
 ---
+## 💾 Data Model
+The data model for this project establishes relationships between the dimension and fact tables listed above. This structure, typically a Star Schema or Snowflake Schema, is crucial for enabling efficient querying and accurate analysis in Power BI.
+
+The diagram below illustrates the relationships between these tables within the Power BI environment:
+
+<p align="center">
+  <img src="4eeaf36b-5634-49e4-bbcb-7f2ffb90cdc5" alt="AdventureWorks Procurement Data Model Relationships" width="800">
+
+---
 
 ## 🧠 Design Thinking Process
 This project applied **Design Thinking principles** to thoroughly understand leadership's needs regarding procurement insights and to define the dashboard's scope effectively. 
