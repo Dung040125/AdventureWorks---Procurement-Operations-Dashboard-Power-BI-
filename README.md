@@ -135,7 +135,7 @@ The procurement operations dashboard is structured into user-centric pages:
 
 ### **Page 1: Purchasing Overview - Cost & Volume**
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/2638998c-0819-4ac1-aa66-1c1fe8ed32d0" alt="Purchasing Overview: Cost & Volume Dashboard" width="900">
+  <img src="https://github.com/user-attachments/assets/31fd6aab-3e67-4b23-8c24-5916ab81ce4e" alt="Purchasing Overview: Cost & Volume Dashboard" width="900">
 </p>
 
 📌 **Analysis (Cost & Volume):**
@@ -156,7 +156,7 @@ The company's procurement operations are **large-scale** (total historical cost 
 
 ### **Page 2: Purchasing Operations - Efficiency, Details & Vendor Insights**
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/5a9319a0-00b4-42c9-b0aa-0e1dbfb611d9" alt="Purchasing Operations: Efficiency & Details Dashboard" width="900">
+  <img src="https://github.com/user-attachments/assets/1227ea58-38ce-434d-8f22-ff3f04ed4d36" alt="Purchasing Operations: Efficiency & Details Dashboard" width="900">
 </p>
 
 📌 **Analysis (Operational Efficiency & Delivery):**
