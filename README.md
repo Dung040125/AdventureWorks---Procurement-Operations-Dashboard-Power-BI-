@@ -104,10 +104,7 @@ This project applied **Design Thinking principles** to thoroughly understand lea
 
 3️⃣ **Ideate:** Brainstormed a range of relevant Key Performance Indicators (KPIs), effective data visualizations, and intuitive dashboard layouts designed to directly address the defined problem statement and business questions.
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/005deca6-fe55-4bdc-a38f-e98642e7469c" alt="Design Thinking: Ideate Stage - Brainstorming" width="700">
-</p>
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/18fbaa14-7502-44d8-9a2f-02bfaa644070" alt="Design Thinking: Ideate Stage - Prioritization" width="500">
+  <img src="https://github.com/user-attachments/assets/dbf9e5c8-e773-4ad2-a301-0ae1f471634c" alt="Design Thinking: Ideate Stage - Brainstorming" width="1000">
 </p>
 
 4️⃣ **Prototype and Review:** Developed initial dashboard prototypes in Power BI, which were then iteratively refined based on analytical goals, data storytelling principles, and assumed stakeholder feedback for maximum clarity and impact.
