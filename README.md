@@ -78,7 +78,7 @@ The diagram below illustrates the relationships between these tables within the 
 
 <p align="center">
   <img src="4eeaf36b-5634-49e4-bbcb-7f2ffb90cdc5" alt="AdventureWorks Procurement Data Model Relationships" width="800">
-
+</p>
 ---
 
 ## 🧠 Design Thinking Process
